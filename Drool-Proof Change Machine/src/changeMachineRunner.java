@@ -26,7 +26,6 @@ public class changeMachineRunner
 		purchase = userInput.nextInt();
 		System.out.println("How much money did you give me?");
 		payment = userInput.nextInt();
-		//Math below isn't quite right, but it's the general technique
 		change = (purchase - payment) * -1;
 		
 		System.out.println(" ");
