@@ -14,6 +14,7 @@ public class changeMachineRunner
 		int change = 0;
 
 		//Choosing currency type
+		//hello
 		System.out.println("Welcome to the Drool-Proof Change Machine!");
 		System.out.println("Which currency type would you like to use?");
 		System.out.println("1. US");
