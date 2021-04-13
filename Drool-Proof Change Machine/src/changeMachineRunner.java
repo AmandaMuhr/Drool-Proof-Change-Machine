@@ -29,7 +29,7 @@ public class changeMachineRunner
 		change = (purchase - payment) * -1;
 		
 		System.out.println(" ");
-		System.out.println("COMMERCE SUMMARY");
+		System.out.println("TRANSACTION SUMMARY");
 		System.out.println("Purchase Price: " + purchase);
 		System.out.println("Payment: " + payment);
 		System.out.println("Change Owed: " + change);
